@@ -45,7 +45,7 @@ This dataset provides over 480,000 records of mobile users through 16,000 base s
 |  21  |   Content-Type   |             The media information of one record              |
 |  22  |       Date       |                    The date of one record                    |
 
-# Dataset Citations
+# Dataset Citation
 
 If you have used the dataset, we would appreciate citations to the following paper:
 
