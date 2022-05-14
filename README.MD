@@ -1,6 +1,6 @@
 # About Edge Computing Dataset
 
-This dataset is from ISP in china and is publicly released for researches in Edge Computing. The dataset not only contains base station location and user access time,  **but also records URLs, server ports and gateway IP, which is is important for edge computing researches but rarely provided by similar datasets. ** 
+This dataset is from ISP in china and is publicly released for researches in Edge Computing. The dataset not only contains base station location and user access time,  **but also records URLs, server ports and gateway IP, which is is important for edge computing researches but rarely provided by similar datasets.** 
 
 
 
