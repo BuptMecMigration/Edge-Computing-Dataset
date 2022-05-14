@@ -6,7 +6,7 @@ This dataset is from ISP in china and is publicly released for researches in Edg
 
 # Analysis of Telecom Dataset
 
-The following figure shows some statistical results obtained from the dataset. 
+The following figures show some statistical results obtained from the dataset. 
 
 We calculated the average number of requests sent by each user during the month based on the number of users and the number of requests, as shown in Figure 1. 
 
