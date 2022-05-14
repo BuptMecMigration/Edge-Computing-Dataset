@@ -6,19 +6,9 @@ This dataset is from ISP in china and is publicly released for researches in Edg
 
 The following figures show some statistical results obtained from the dataset. 
 
-
-
-
-
 The average number of requests sent by each user in the month is shown in Figure 1. 
 
 ![image-20220514163420339](image/image-20220514163420339.png)
-
-
-
-
-
-
 
 In Figure 2, the requests are classified into four categories according to their duration.
 
