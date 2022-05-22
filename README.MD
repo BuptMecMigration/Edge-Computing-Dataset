@@ -51,4 +51,6 @@ This dataset provides over 480,000 records of mobile users through 16,000 base s
 
 If you have used the dataset, we would appreciate citations to the following paper:
 
-- Haojiang Liu, Yuanzhe Li, Shangguang Wang. Request Scheduling Combined with Load Balancing in Mobile Edge Computing. IEEE Internet of Things Journal, 2022, https://ieeexplore.ieee.org/document/9779350
+- Haojiang Liu, Yuanzhe Li, Shangguang Wang. Request Scheduling Combined with Load Balancing in Mobile Edge Computing. IEEE Internet of Things Journal, 2022.
+  - paper: https://ieeexplore.ieee.org/document/9779350
+  - source code: https://github.com/knightlea/Request_Scheduling_for_Load_Balancing
