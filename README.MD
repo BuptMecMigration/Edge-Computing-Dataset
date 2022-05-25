@@ -22,7 +22,11 @@ In Figure 2, the requests are classified into four categories according to their
 
 This dataset provides over 480,000 records of mobile users through 16,000 base stations from Beijing, Shanghai and Guangzhou.  The parameters and their descriptions are listed in the following table. The URL field of some records is vacant because it is a HTTPS link. In order to protect user privacy, some sensitive information has been processed.
 
-|  ID  |                Parameter Name                 |                         Description                          |
+**Please note that base stations are identified by Location Area Code(second column) and Cell Identity(third column)**
+
+Understanding Location Area Code and Cell Identity：[Link](https://en.wikipedia.org/wiki/Cell_Global_Identity)
+
+| column ID  |                Parameter Name                 |                         Description                          |
 | :--: | :-------------------------------------------: | :----------------------------------------------------------: |
 |  1   |                 Phone Number                  |                    Encrypted phone number                    |
 |  2   |            Location Area Code(LAC)            | LAC is the unique number given to each location area within the network |
